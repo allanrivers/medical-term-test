@@ -1,0 +1,233 @@
+[
+    {
+        "medicalTerm": "Amb",
+        "answer": "double"
+    },
+    {
+        "medicalTerm": "Anter",
+        "answer": "Front"
+    },
+    {
+        "medicalTerm": "Aut",
+        "answer": "Self"
+    },
+    {
+        "medicalTerm": "Axill",
+        "answer": "Armpit"
+    },
+    {
+        "medicalTerm": "Blephar",
+        "answer": "Eyelid"
+    },
+    {
+        "medicalTerm": "Brachi",
+        "answer": "Arm"
+    },
+    {
+        "medicalTerm": "Bucc",
+        "answer": "Cheek"
+    },
+    {
+        "medicalTerm": "Canth",
+        "answer": "Eyelids meet"
+    },
+    {
+        "medicalTerm": "Capit",
+        "answer": "Head"
+    },
+    {
+        "medicalTerm": "Carp",
+        "answer": "Wrist"
+    },
+    {
+        "medicalTerm": "Caud",
+        "answer": "Tail"
+    },
+    {
+        "medicalTerm": "Cephal",
+        "answer": "Head"
+    },
+    {
+        "medicalTerm": "Cervic",
+        "answer": "Neck"
+    },
+    {
+        "medicalTerm": "Cheil",
+        "answer": "Lip"
+    }, {
+        "medicalTerm": "Cheir",
+        "answer": "Hand"
+    },
+    {
+        "medicalTerm": "Cili",
+        "answer": "Eyelash"
+    },
+    {
+        "medicalTerm": "Cor",
+        "answer": "Pupil"
+    },
+    {
+        "medicalTerm": "Crani",
+        "answer": "Skull"
+    },
+    {
+        "medicalTerm": "Cubit",
+        "answer": "Elbow"
+    },
+    {
+        "medicalTerm": "Dactyl",
+        "answer": "Fingers"
+    },
+    {
+        "medicalTerm": "Derm",
+        "answer": "Skin"
+    },
+    {
+        "medicalTerm": "Dors",
+        "answer": "Back"
+    },
+    {
+        "medicalTerm": "Faci",
+        "answer": "Face"
+    },
+    {
+        "medicalTerm": "Gingiv",
+        "answer": "Gums"
+    },
+    {
+        "medicalTerm": "Gloss",
+        "answer": "Tongue"
+    },
+    {
+        "medicalTerm": "Gnath",
+        "answer": "Jaw"
+    },
+    {
+        "medicalTerm": "Inguin",
+        "answer": "Groin"
+    },
+    {
+        "medicalTerm": "Irid",
+        "answer": "Iris"
+    },
+    {
+        "medicalTerm": "Labi",
+        "answer": "Lips"
+    },
+    {
+        "medicalTerm": "Lapar",
+        "answer": "Abdomen"
+    },
+    {
+        "medicalTerm": "Later",
+        "answer": "Side"
+    },
+    {
+        "medicalTerm": "Lingu",
+        "answer": "Tongue"
+    },
+    {
+        "medicalTerm": "Mamm",
+        "answer": "Breast"
+    },
+    {
+        "medicalTerm": "Mast",
+        "answer": "Breast"
+    },
+    {
+        "medicalTerm": "Nas",
+        "answer": "Nose"
+    },
+    {
+        "medicalTerm": "Occipit",
+        "answer": "Back of head"
+    },
+    {
+        "medicalTerm": "Ocul",
+        "answer": "Eye"
+    },
+    {
+        "medicalTerm": "Odont",
+        "answer": "Teeth"
+    },
+    {
+        "medicalTerm": "Omphal",
+        "answer": "Umbilicus"
+    },
+    {
+        "medicalTerm": "Onych",
+        "answer": "Nails"
+    },
+    {
+        "medicalTerm": "Opthalm",
+        "answer": "Eyes"
+    },
+    {
+        "medicalTerm": "Optic",
+        "answer": "Sight"
+    },
+    {
+        "medicalTerm": "Or",
+        "answer": "Mouth"
+    },
+    {
+        "medicalTerm": "Ot",
+        "answer": "Ear"
+    },
+    {
+        "medicalTerm": "Papill",
+        "answer": "Nipple"
+    },
+    {
+        "medicalTerm": "Pelv",
+        "answer": "Pelvis"
+    },
+    {
+        "medicalTerm": "Phall",
+        "answer": "Penis"
+    },
+    {
+        "medicalTerm": "Pil",
+        "answer": "Hair"
+    },
+    {
+        "medicalTerm": "Pod",
+        "answer": "Foot"
+    },
+    {
+        "medicalTerm": "Rhin",
+        "answer": "Nose"
+    },
+    {
+        "medicalTerm": "Somat",
+        "answer": "Body"
+    },
+    {
+        "medicalTerm": "Steth",
+        "answer": "Chest"
+    },
+    {
+        "medicalTerm": "Stomat",
+        "answer": "Mouth"
+    },
+    {
+        "medicalTerm": "Tal",
+        "answer": "Ankle"
+    },
+    {
+        "medicalTerm": "Thorac",
+        "answer": "Chest"
+    },
+    {
+        "medicalTerm": "Trachel",
+        "answer": "Neck"
+    },
+    {
+        "medicalTerm": "Trich",
+        "answer": "Hair"
+    },
+    {
+        "medicalTerm": "Ventr",
+        "answer": "Front of body"
+    }
+]
